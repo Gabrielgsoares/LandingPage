@@ -61,6 +61,7 @@ body {
   font-weight: 400;
   font-size: 64px;
   color: #fff2e7;
+  text-shadow: 2px 5px rgba(37, 37, 37, 0.24);
 }
 
 .conteudo-principal-escrito-subtitulo {
@@ -92,8 +93,8 @@ body {
   margin-bottom: 30px;
   height: 300px;
   border-radius: 300px;
-  border-color: rgb(0, 0, 0);
-  box-shadow: 50px, rgb(0, 0, 0);
+  border: 2px solid #dbdbdb;
+  box-shadow: 10px 5px 5px rgba(37, 37, 37, 0.24);
 }
 
 .conteudo-secundario {
